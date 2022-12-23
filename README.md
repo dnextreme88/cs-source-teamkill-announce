@@ -24,9 +24,13 @@ You can edit the message being sent to chat by editing the file `teamkillannounc
 
 - [morecolors.inc](https://forums.alliedmods.net/showthread.php?t=185016) (included)
 
+## Contributions
+
+Contributions are welcome! Please create a new branch and make a pull request to the main branch so that I'll review the changes and approve it if it's beneficial enough.
+
 ## Credits
 
 - To Valve for making a wonderful game.
-- To exvel from the SourceMod community for creating morecolors.inc.
+- To Dr. McKay from the SourceMod community for creating morecolors.inc.
 - To Zeromix from Steam for creating a Counter-Strike: Source Dedicated Server.
 - To the SourceMod community for making it possible to create and play Counter-Strike: Source with plugins.
